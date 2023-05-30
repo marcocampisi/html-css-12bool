@@ -1,3 +1,29 @@
 @import "reset.css";
 @import "general.css";
 @import "12bool.css";
+
+
+/* Header */
+
+header h1 {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+/* Main */
+
+.container {
+    margin-bottom: 20px;
+}
+
+.blue-background {
+    color: white;
+}
+
+.row > * {
+    padding: 10px;
+}
+
+.green-background {
+    padding: 10px 0;
+}

@@ -1,8 +1,10 @@
 /* GENERAL */
 
 * {
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
+
+
 
 /* UTILITY */
 
@@ -12,8 +14,13 @@
 
 .text-center {
     text-align: center;
+    text;
 }
 
 .blue-background {
-    background-color: dodgerblue;
+    background-color: #006cfa;
+}
+
+.green-background {
+    background-color: #00e165;
 }
