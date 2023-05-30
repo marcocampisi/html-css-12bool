@@ -5,3 +5,12 @@
 }
 
 /* UTILITY */
+
+.flexed {
+    display: flex
+}
+
+.text-center {
+    text-align: center;
+}
+
